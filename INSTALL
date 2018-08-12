@@ -1,0 +1,9 @@
+Building Rocket
+
+See doc/readme-qt.rst for instructions on building Rocket QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Rocket.
+
+See doc/build-*.txt for instructions on building rocketd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Rocket.
